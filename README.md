@@ -7,20 +7,26 @@
 </div>
 <hr style="line-height: 0, height:20px">
 
-<p style="text-align: center; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
   <a href="https://www.instagram.com/maulaibrhmsyah/">
-    <img src="img/instagram.svg" alt="Instagram"
-         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px); background: transparent;" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" 
+         style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
+         onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
+         onmouseout="this.style.borderColor='#444'; this.style.backgroundColor='#2a2a2a';" />
   </a>
   <a href="https://www.linkedin.com/in/maula-ibrahim-syahwi/">
-    <img src="img/linkedin.svg" alt="LinkedIn"
-         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px); background: transparent;" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" 
+         style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
+         onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
+         onmouseout="this.style.borderColor='#444'; this.style.backgroundColor='#2a2a2a';" />
   </a>
   <a href="https://x.com/MaulaIbrhmsyah">
-    <img src="img/twitter.svg" alt="Twitter"
-         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px); background: transparent;" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" 
+         style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
+         onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
+         onmouseout="this.style.borderColor='#444'; this.style.backgroundColor='#2a2a2a';" />
   </a>
-</p>
+</div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> **Hello, I'm Maula** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 
