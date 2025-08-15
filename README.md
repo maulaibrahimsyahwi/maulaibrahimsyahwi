@@ -9,16 +9,16 @@
 
 <p style="text-align: center; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.instagram.com/maulaibrhmsyah/">
-    <img src="img/instagram.svg" alt="Instagram" 
-         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px);" />
+    <img src="img/instagram.svg" alt="Instagram"
+         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px); background: transparent;" />
   </a>
   <a href="https://www.linkedin.com/in/maula-ibrahim-syahwi/">
-    <img src="img/linkedin.svg" alt="LinkedIn" 
-         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px);" />
+    <img src="img/linkedin.svg" alt="LinkedIn"
+         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px); background: transparent;" />
   </a>
   <a href="https://x.com/MaulaIbrhmsyah">
-    <img src="img/twitter.svg" alt="Twitter" 
-         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px);" />
+    <img src="img/twitter.svg" alt="Twitter"
+         style="width: clamp(80px, 15vw, 150px); height: clamp(80px, 15vw, 150px); background: transparent;" />
   </a>
 </p>
 
