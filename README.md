@@ -8,19 +8,19 @@
 <hr style="line-height: 0, height:20px">
 
 <div align="center">
-  <a href="https://www.instagram.com/maulaibrhmsyah/">
+  <a href="https://instagram.com/yourusername">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" 
          style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
          onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
          onmouseout="this.style.borderColor='#444'; this.style.backgroundColor='#2a2a2a';" />
   </a>
-  <a href="https://www.linkedin.com/in/maula-ibrahim-syahwi/">
+  <a href="https://linkedin.com/in/yourusername">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" 
          style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
          onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
          onmouseout="this.style.borderColor='#444'; this.style.backgroundColor='#2a2a2a';" />
   </a>
-  <a href="https://x.com/MaulaIbrhmsyah">
+  <a href="https://twitter.com/yourusername">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" 
          style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
          onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
@@ -71,10 +71,13 @@ I'm a passionate developer and informatic student at state of university of jaka
 </a>
 
 <div align="center">
+  <br>
   <a href="https://llama-chat-ai.vercel.app/">
     <img src="https://img.shields.io/badge/-VIEW-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="View" />
   </a>
 </div>
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulaibrahimsyahwi/maulaibrahimsyahwi/output/pacman-contribution-graph-dark.svg">
