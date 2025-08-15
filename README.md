@@ -2,7 +2,7 @@
   <img src="img/header.png" alt="maulaibrahimsyahwi" style="border-radius: 30px;">
 </p>
 
-<div >
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Making;Always+Learning+Something+New&font=Fira%20Code&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=36BCF7&">
 </div>
 <hr style="line-height: 0, height:20px">
