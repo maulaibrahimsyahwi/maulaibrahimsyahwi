@@ -45,7 +45,7 @@ I'm a passionate developer and informatic student at state of university of jaka
 </tr>
 <tr style="border: none;">
 <td style="border: none;"><strong>Frameworks & Libraries</strong></td>
-<td style="border: none;"><img src="https://skillicons.dev/icons?i=nodejs,figma,npm,vite&theme=dark" alt="Frameworks" /></td>
+<td style="border: none;"><img src="https://skillicons.dev/icons?i=nodejs,figma,npm,vite,nextjs&theme=dark" alt="Frameworks" /></td>
 </tr>
 <tr style="border: none;">
 <td style="border: none;"><strong>Tools & Platforms</strong></td>
