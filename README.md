@@ -72,7 +72,7 @@ I'm a passionate developer and informatic student at state of university of jaka
 
 <div align="center">
   <br>
-  <a href="https://llama-chat-ai.vercel.app/">
+  <a href="https://chat-assistant-ai.vercel.app/">
     <img src="https://img.shields.io/badge/-VIEW-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="View" />
   </a>
 </div>
