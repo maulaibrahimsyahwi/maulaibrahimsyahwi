@@ -20,7 +20,7 @@
          onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
          onmouseout="this.style.borderColor='#444'; this.style.backgroundColor='#2a2a2a';" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/MaulaIbrhmsyah">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" 
          style="border: 2px solid #444; border-radius: 10px; padding: 10px 15px; margin: 0 8px; background-color: #2a2a2a; transition: all 0.3s ease;" 
          onmouseover="this.style.borderColor='#0ea5e9'; this.style.backgroundColor='#374151';" 
@@ -64,9 +64,9 @@ I'm a passionate developer and informatic student at state of university of jaka
 
 ### Lastes build projects
 
-###### AI Chat Assistant use Groq API
+###### AI Chat Assistant
 
-<a href="https://llama-chat-ai.vercel.app/">
+<a href="https://chat-assistant-ai.vercel.app/">
 <img src="img/project.webp" style="border-radius:20px">
 </a>
 
