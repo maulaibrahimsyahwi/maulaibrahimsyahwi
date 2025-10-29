@@ -68,7 +68,7 @@ I'm a passionate developer and informatic student at state of university of jaka
 
 ### Lastes build projects
 
-###### AI Chat Assistant & Kanban Board
+###### Chat Assistant AI & Kanban Board
 
 <table style="border: none; margin-left: auto; margin-right: auto;">
   <tr style="border: none;">
