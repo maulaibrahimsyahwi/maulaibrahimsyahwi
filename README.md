@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.png" alt="maulaibrahimsyahwi" style="border-radius: 30px;">
+  <img src="https://res.cloudinary.com/dzcm7ddky/image/upload/v1761729671/github-header-banner_twrrly.png" alt="maulaibrahimsyahwi" style="border-radius: 30px;">
 </p>
 
 <div align='center'>
@@ -74,7 +74,7 @@ I'm a passionate developer and informatic student at state of university of jaka
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
       <a href="https://chat-assistant-ai.vercel.app/" target="_blank">
-        <img src="img/project.webp" style="border-radius:20px; width: 100%; max-width: 400px;" alt="AI Chat Assistant Project">
+        <img src="https://res.cloudinary.com/dzcm7ddky/image/upload/v1761729537/proyek1_bny7yy.webp" style="border-radius:20px; width: 100%; max-width: 400px;" alt="AI Chat Assistant Project">
       </a>
     </td>
     <td style="border: none; padding: 10px;">
