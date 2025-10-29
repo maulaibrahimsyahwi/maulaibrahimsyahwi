@@ -8,7 +8,7 @@
 <hr style="line-height: 0, height:20px">
 
 <div align="center">
-<a href="https://www.instagram.com/maulaibrhmsyah/" target= _blank>
+  <a href="https://www.instagram.com/maulaibrhmsyah/" target= _blank>
     <img src="http://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width= 100 alt="Instagram"/>
   </a>
 
@@ -70,13 +70,24 @@ I'm a passionate developer and informatic student at state of university of jaka
 
 ###### AI Chat Assistant
 
-<a href="https://chat-assistant-ai.vercel.app/" target= _blank>
-  <img src="img/project.webp" style="border-radius:20px">
-</a>
+<table style="border: none; margin-left: auto; margin-right: auto;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="https://chat-assistant-ai.vercel.app/" target="_blank">
+        <img src="img/project.webp" style="border-radius:20px; width: 100%; max-width: 400px;" alt="AI Chat Assistant Project">
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://kanbans-boards.vercel.app/" target="_blank">
+        <img src="https://res.cloudinary.com/dzcm7ddky/image/upload/v1761376274/proyek2_qg6lbk.webp" style="border-radius:20px; width: 100%; max-width: 400px;" alt="AI Chat Assistant Project 2">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <br>
-  <a href="https://chat-assistant-ai.vercel.app/" target= _blank>
+  <a href="https://maula-ibrahim-syahwi.vercel.app/" target= _blank>
     <img src="https://img.shields.io/badge/-VIEW-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="View" />
   </a>
 </div>
